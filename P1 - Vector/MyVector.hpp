@@ -37,8 +37,9 @@ class MyVector
 				capacity = MINIMUM_CAPACITY;
 			}
 			elements_ = new T[capacity];
-			capacity_ = capacity;
 			size_ = 0;
+			capacity_ = capacity;
+			
 		}
 		
 		/// Copy constructor
