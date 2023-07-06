@@ -1,0 +1,10 @@
+
+*.o
+*~
+
+main
+main-sandbox
+main-tests
+leak-checker
+
+results.json
